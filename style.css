@@ -1,0 +1,12 @@
+/*Você pode alterar a duração de suas animações, adicionar um atraso ou alterar o número de vezes que ele é reproduzido:
+
+#yourElement {
+   -vendor-animation-duration : 3 s ;
+  -vendor-animation-delay : 2 s ;
+  -vendor-animation-iteration-count : infinito ; 
+*/
+
+#section-1{
+	animation-delay:3s;
+	animation-duration:5s;
+}
